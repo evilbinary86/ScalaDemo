@@ -1,0 +1,5 @@
+# 忽略编译后的文件
+*.class
+.DS_Store
+# 忽略target文件夹
+target/
